@@ -1,0 +1,11 @@
+# Core numerical & scientific libraries
+numpy>=1.25
+scipy>=1.11
+matplotlib>=3.7
+
+# Optional: for notebooks and plotting demos
+jupyter>=1.0
+notebook>=7.0
+
+# Optional: progress bars or utils (safe to include)
+tqdm>=4.66
